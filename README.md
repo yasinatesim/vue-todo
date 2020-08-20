@@ -17,7 +17,7 @@
 
 ## 📖 About
 
-<img src="https://yasinates.com/vue-todo.jpg" alt="Vue Todo App">
+<img width="500" src="https://yasinates.com/vue-todo.jpg" alt="Vue Todo App">
 
 This project was created to create a medium/large Vue project folder structure 😋
 I developed this project because, I need medium and larger Vue project folder structure.
