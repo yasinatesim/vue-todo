@@ -83,12 +83,12 @@ yarn install
 yarn serve
 ```
 
-**For Production Build
+**For Production Build**
 ```bash
 yarn build
 ```
 
-**For Lint
+**For Lint**
 ```bash
 yarn lint
 ```
