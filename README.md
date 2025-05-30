@@ -11,7 +11,7 @@
 <p align="center">This project was created to create a medium/large Vue project folder structure 😋</p>
 
   <p align="center">
-    · <a href="https://vue-todo.yasinatesim.vercel.app/">View Demo</a>
+    · <a href="https://vue-todo.yasinates.com">View Demo</a>
   </p>
 </p>
 
